@@ -7,8 +7,8 @@
 //!
 //! See the [Users Guide](https://rust-lang-nursery.github.io/rust-bindgen/) for
 //! additional documentation.
-#![deny(missing_docs)]
-#![deny(warnings)]
+// #![deny(missing_docs)]
+// #![deny(warnings)]
 #![deny(unused_extern_crates)]
 // To avoid rather annoying warnings when matching with CXCursor_xxx as a
 // constant.
